@@ -1,0 +1,21 @@
+{
+  "name": "cursor-global-rules",
+  "version": "1.0.0",
+  "description": "Set global .cursorrules for Cursor editor",
+  "main": "index.js",
+  "bin": {
+    "cursor-global-rules": "./index.js"
+  },
+  "keywords": [
+    "cursor",
+    "git",
+    "commit",
+    "rules"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "os-homedir": "^2.0.0",
+    "path": "^0.12.7"
+  }
+}
